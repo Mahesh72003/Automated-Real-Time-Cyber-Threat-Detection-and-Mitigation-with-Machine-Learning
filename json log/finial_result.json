@@ -1,0 +1,72 @@
+{
+    "10.42.0.128": {
+        "mac_address": "C6:BA:99:16:8D:4F",
+        "device_name": "Unknown",
+        "os": null,
+        "location": {
+            "ip": "49.37.161.114",
+            "country": "India",
+            "region": "Karnataka",
+            "city": "Bengaluru",
+            "lat": 12.9753,
+            "lon": 77.591,
+            "isp": "Reliance Jio Infocomm Limited",
+            "org": "Reliance Jio Infocomm Limited"
+        },
+        "count": 10,
+        "protocols": [
+            "UDP"
+        ],
+        "timestamp": "2025-07-29 23:39:51",
+        "source_ip": "10.42.0.128",
+        "type_attack": "ZeroDay_suspicious_ips.json",
+        "ip_blocked": "true"
+    },
+    "10.42.0.132": {
+        "mac_address": "A4:2A:95:46:2A:44",
+        "device_name": "D-Link International",
+        "os": null,
+        "location": {
+            "ip": "49.37.161.114",
+            "country": "India",
+            "region": "Karnataka",
+            "city": "Bengaluru",
+            "lat": 12.9753,
+            "lon": 77.591,
+            "isp": "Reliance Jio Infocomm Limited",
+            "org": "Reliance Jio Infocomm Limited"
+        },
+        "count": 13,
+        "protocols": [
+            "TCP",
+            "UDP"
+        ],
+        "timestamp": "2025-07-30 00:15:34",
+        "source_ip": "10.42.0.132",
+        "type_attack": "ZeroDay_suspicious_ips.json",
+        "ip_blocked": "true"
+    },
+    "10.42.0.236": {
+        "mac_address": "C6:08:B2:03:9C:8D",
+        "device_name": "Unknown",
+        "os": null,
+        "location": {
+            "ip": "49.37.161.114",
+            "country": "India",
+            "region": "Karnataka",
+            "city": "Bengaluru",
+            "lat": 12.9753,
+            "lon": 77.591,
+            "isp": "Reliance Jio Infocomm Limited",
+            "org": "Reliance Jio Infocomm Limited"
+        },
+        "count": 8,
+        "protocols": [
+            "TCP"
+        ],
+        "timestamp": "2025-07-30 01:13:09",
+        "source_ip": "10.42.0.236",
+        "type_attack": "ZeroDay_suspicious_ips.json",
+        "ip_blocked": "true"
+    }
+}
