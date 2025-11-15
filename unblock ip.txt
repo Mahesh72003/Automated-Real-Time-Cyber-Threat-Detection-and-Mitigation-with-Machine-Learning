@@ -1,0 +1,3 @@
+sudo nft list chain inet blocklist input
+sudo nft delete rule inet blocklist input handle 0
+
