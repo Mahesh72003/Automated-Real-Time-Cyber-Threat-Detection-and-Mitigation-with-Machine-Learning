@@ -12,8 +12,8 @@ import asyncio
 from telegram import Bot
 
 # === Telegram Bot Setup ===
-BOT_TOKEN = '7503247145:AAGKkFDTmRamUTreDS_IN2Joofq1EUv2Kqg'
-CHAT_ID = '1542494811'
+BOT_TOKEN = ''
+CHAT_ID = ''
 bot = Bot(token=BOT_TOKEN)
 
 # Define the mapping of file names to full paths
